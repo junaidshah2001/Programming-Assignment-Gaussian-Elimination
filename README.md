@@ -32,4 +32,4 @@ To run this project on your local machine:
 
 1️⃣ **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/Programming-Assignment-Gaussian-Elimination.git
+git clone https://github.com/junaidshah2001/Programming-Assignment-Gaussian-Elimination.git
