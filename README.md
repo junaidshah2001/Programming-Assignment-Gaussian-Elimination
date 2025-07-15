@@ -1,5 +1,3 @@
-# Programming-Assignment-Gaussian-Elimination
-My programming assignment implementing the Gaussian Elimination method for solving systems of linear equations.
 # Programming Assignment — Gaussian Elimination
 
 This repository contains my programming assignment for implementing the **Gaussian Elimination** algorithm, a fundamental method in linear algebra used for solving systems of linear equations.
